@@ -1,0 +1,41 @@
+.tortilla{
+    background-color: antiquewhite;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.tortilla .ingredients {
+    list-style-type: circle;
+}
+.tortilla .steps {
+    text-align: start;
+}
+
+.ramen{
+    background-color: #f2af57;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+
+.ramen .list1{
+    text-align: center;
+    list-style-position: inside;
+}
+.ramen .steps{
+    list-style-position: inside;
+}
+
+.rolls{
+    background-color:#33303b;
+    color: #dedae8;
+    text-align: center;
+    list-style-position: inside;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.rolls .steps{
+    text-align: left;
+}
+.rolls .underline{
+    text-decoration: underline;
+}
